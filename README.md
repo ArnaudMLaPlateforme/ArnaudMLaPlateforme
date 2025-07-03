@@ -13,10 +13,9 @@ Après une carrière de plusieurs années dans la grande distribution en tant qu
 
 ## 📫 Me contacter
 
-- 📧 **Email** : [ton.email@email.com](mailto:ton.email@email.com)
+- 📧 **Email** : [arnaud.meusy@laplateforme.io](mailto:ton.arnaud.meusy@laplateforme.io)
 - 💼 **LinkedIn** : [linkedin.com/in/arnaudmeusy](https://linkedin.com/in/arnaudmeusy)
-- 🌐 **Portfolio** : [arnaudmeusy.dev](https://arnaudmeusy.dev)
-- 📄 [Voir mon CV](https://tonlienverscv.com)
+- 🌐 **Portfolio** : [arnaudmeusy.com](https://arnaudmeusy.com)
 
 ---
 
